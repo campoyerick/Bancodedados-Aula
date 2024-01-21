@@ -18,7 +18,7 @@ Ao desenvolver plugins para servidores Minecraft baseados em Bukkit, é comum a 
 
 ### 🚀 Como utilizar este guia?
 
-Este guia é dividido em seções simples e diretas, projetadas para levar você de iniciante a proficiente no uso do MySQL e SQL em Java Bukkit. Siga os passos, experimente os exemplos e sinta-se à vontade para adaptar as instruções conforme necessário para atender às necessidades específicas do seu projeto.
+Este guia é dividido em seções simples e diretas, projetadas para levar você de iniciante a proficiente no uso do MySQL em Java Bukkit. Siga os passos, experimente os exemplos e sinta-se à vontade para adaptar as instruções conforme necessário para atender às necessidades específicas do seu projeto.
 
 > [!NOTE]
 >  Este guia assume que você já possui conhecimento básico de Java e Bukkit. Se necessário, consulte a [documentação oficial do Bukkit](https://bukkit.gamepedia.com/Main_Page) para obter mais informações.
@@ -43,7 +43,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 ### 1. Configuração do Ambiente
 
-Antes de começar a trabalhar com MySQL e SQL em Java Bukkit, é essencial configurar o ambiente corretamente. Certifique-se de seguir estes passos:
+Antes de começar a trabalhar com MySQL em Java Bukkit, é essencial configurar o ambiente corretamente. Certifique-se de seguir estes passos:
 
 #### 1.1. Instalação do JDK (Java Development Kit)
 
@@ -439,7 +439,7 @@ Parabéns! Você agora tem uma compreensão básica de como utilizar o MySQL em 
 
 #### 5.3. Documentação Adicional
 
-- Consulte a [documentação oficial do MySQL](https://dev.mysql.com/doc/) para informações detalhadas sobre SQL e configuração do MySQL.
+- Consulte a [documentação oficial do MySQL](https://dev.mysql.com/doc/) para informações detalhadas sobre MYSQL e configuração do MySQL.
 
 - Explore a [documentação do Bukkit](https://hub.spigotmc.org/javadocs/spigot/) para aprofundar seus conhecimentos sobre o desenvolvimento de plugins Bukkit.
 
